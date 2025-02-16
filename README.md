@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+👨🏻‍💻 Who am I
+- I'm an automation tester with 6.5 years of experience, passionate about writing clean, maintainable code to ensure high-quality software.
+- I specialize in tools like Selenium, BDD Cucumber, Java, Git, Jenkins.
+- I am always eager to learn new tools and methodologies in the QA space and am open to collaborations and contributions to testing frameworks. 
+
+🌱 I’m currently learning ...
+- AWS, Docker, Backend automation and Infrastructure
+- Python, Playwirght
+
+📫 How to reach me: ...
+- https://www.linkedin.com/in/govind-namasivayam-8384b9205/
+
 <!--
 **git4govind/git4govind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
